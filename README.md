@@ -9,7 +9,7 @@
 ### 👀 BTVN Buổi 2
 > Yêu cầu: Hoàn thành > 70% số lượng bài tập
 
-### 🤔1.  Cơ Bản
+### 🔍1.  Cơ Bản
 #### 👉Bài 1: Tính tổng các chữ số trong một số nguyên dương
 > - Viết một chương trình yêu cầu người dùng nhập một số nguyên dương. Tính và in ra tổng các chữ số của số đó.
 > - `Ví dụ:`Đối với số 12345, tổng các chữ số là 1 + 2 + 3 + 4 + 5 = 15.
@@ -33,7 +33,7 @@
 > - l.    a dịch phải 1 đơn vị
 > - m.  a dịch trái 1 đơn vị
 
-### 🤔2. Vận Dụng 
+### 🔍2. Vận Dụng 
 #### 👉Bài 3: Tính các tổng sau:
 > - S(n) = 1 - 2 + 3 - 4 + 5 + .... + (2*n + 1)
 > - S(n) = 1 + ½ + ⅓ + ¼ +.....+1/n
@@ -42,13 +42,13 @@
 > - Hãy viết chương trình tìm n số Fibonacci đầu tiên.
 > - Quy luật của dãy số Fibonacci: số tiếp theo bằng tổng của 2 số trước, 2 số đầu tiên của dãy số là 0, 1. `Ví dụ:` 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...
 
-### 🤔3.  Nâng Cao <Research>
+### 🔍3.  Nâng Cao <Research>
 #### 👉Bài 5: 
 > - Nhập vào 1 số n. Viết chương trình in ra tất cả các số Armstrong bậc 3 từ 1 đến n. (Số Armstrong bậc 3 là số mà tổng lập phương của các chữ số của nó bằng chính nó)
 #### 👉Bài 6: 
 > - Nhập vào 1 số n. In ra tất cả các số hoàn hảo từ 1 đến n. ( Số hoàn hảo là số mà tổng các ước của nó (không tính chính nó) bằng chính nó ).
 
-### 🤔4.  Research 
+### 🔍4.  Research 
 #### 👉Bài 7: 
 > - Viết một chương trình nhận vào một số N từ người dùng và in ra tất cả các cặp số Amicable từ 1 đến N. Cặp số Amicable là cặp số mà tổng các ước số của số thứ nhất bằng số thứ hai và ngược lại.
 #### 👉Bài 8: 
