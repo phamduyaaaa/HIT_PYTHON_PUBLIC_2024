@@ -9,4 +9,4 @@
 | Linh động        | Việc sử dụng trình thông dịch giúp Python linh hoạt và dễ dàng để phát triển, thử nghiệm và gỡ lỗi. Các lập trình viên có thể chạy mã từng dòng hoặc từng khối để kiểm tra kết quả ngay lập tức.             |
 | Mã bytecode      | Khi mã Python được thực thi, nó được chuyển đổi thành một dạng mã bytecode tạm thời, sau đó mã bytecode này sẽ được thông dịch và thực thi bởi máy ảo Python (Python Virtual Machine - PVM).               |
 
-- Bài tập hàng tuần có trong các file Day.md
+### 📌Bài tập hàng tuần có trong các file Day.md
